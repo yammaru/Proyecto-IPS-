@@ -1,0 +1,11 @@
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\bin\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.pdb
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\IPS MAS SALUD Y VIDA\Entity\bin\Debug\Entity.dll
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\IPS MAS SALUD Y VIDA\Entity\bin\Debug\Entity.pdb
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.dll
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\IPS MAS SALUD Y VIDA\Entity\obj\Debug\Entity.pdb
